@@ -79,7 +79,8 @@ const Hero = () => {
                   alt="Harish Kumar"
                   className="w-full h-full object-cover"
                   onError={(e) => {
-                    e.target.src = 'https://via.placeholder.com/400x400/1e3a8a/ffffff?text=Harish+Kumar';
+                    console.log('Profile image failed to load, using fallback');
+                    e.target.src = 'https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdHxlbnwwfHx8fDE3NTM3MzgxNzR8MA&ixlib=rb-4.1.0&q=85';
                   }}
                 />
               </div>
