@@ -60,7 +60,7 @@ portfolio_data = {
         "name": "Harish Kumar",
         "title": "Aspiring Data Science and AI Generalist",
         "tagline": "Driven by Data. Powered by Purpose.",
-        "about": "A data-driven enthusiast with a strong academic foundation in Economics and Information Technology. Passionate about leveraging analytical skills and digital tools to solve real-world problems. With expertise in Microsoft Excel, Python, and web technologies, I bring a unique blend of economic insight and technical proficiency to every project.",
+        "about": "An aspiring Data Science and AI Generalist with a strong academic foundation in Economics and Information Technology. Currently pursuing A-Level IT certification from NIELIT to deepen technical expertise. Passionate about leveraging analytical skills, machine learning, and digital technologies to solve complex real-world problems and drive data-driven decision making.",
         "email": "mr.harishgrewal514@gmail.com",
         "phone": "9805877514",
         "linkedin": "https://www.linkedin.com/in/harishkumar044",
