@@ -100,6 +100,13 @@ portfolio_data = {
     ],
     "education": [
         {
+            "degree": "A-Level IT (Currently Pursuing)",
+            "institution": "NIELIT Shimla",
+            "percentage": "In Progress",
+            "year": "2025",
+            "achievement": "Advanced IT certification program"
+        },
+        {
             "degree": "MA in Economics",
             "institution": "Vallabh Govt. College, Mandi (Sardar Patel University)",
             "percentage": "65%",
