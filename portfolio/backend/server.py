@@ -68,16 +68,16 @@ portfolio_data = {
     },
     "skills": [
         {
-            "category": "Data Tools",
-            "skills": ["MS Excel (Advanced)", "Python", "Data Analysis", "Financial Modeling"]
+            "category": "Data Science Tools",
+            "skills": ["Python", "MS Excel (Advanced)", "Data Analysis", "Statistical Analysis", "Machine Learning", "Data Visualization"]
         },
         {
-            "category": "Web Tools", 
-            "skills": ["HTML", "CSS", "JavaScript", "Web Development"]
+            "category": "AI & Tech Skills", 
+            "skills": ["Artificial Intelligence", "HTML", "CSS", "JavaScript", "Database Management", "Research Methods"]
         },
         {
             "category": "Soft Skills",
-            "skills": ["Typing Speed", "Analytical Thinking", "Communication", "Problem Solving"]
+            "skills": ["Analytical Thinking", "Problem Solving", "Communication", "Project Management", "Critical Thinking", "Attention to Detail"]
         }
     ],
     "projects": [
