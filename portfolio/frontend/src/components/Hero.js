@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hero = () => {
-  const profileImage = "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdHxlbnwwfHx8fDE3NTM3MzgxNzR8MA&ixlib=rb-4.1.0&q=85";
+  const profileImage = "https://customer-assets.emergentagent.com/job_harish-portfolio/artifacts/khxaxf2b_PRofile%20HK.JPG";
   
   const handleDownloadResume = () => {
     // Create a placeholder resume download
