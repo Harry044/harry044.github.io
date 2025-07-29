@@ -35,7 +35,7 @@ const Hero = () => {
             </h1>
             
             <h2 className="text-xl md:text-2xl text-blue-100 mb-6 animate-slide-up font-light" style={{animationDelay: '0.2s'}}>
-              Economics Graduate | Excel Specialist | Data Enthusiast
+              Aspiring Data Science and AI Generalist
             </h2>
             
             <p className="text-lg text-blue-100 mb-8 animate-slide-up leading-relaxed" style={{animationDelay: '0.4s'}}>
