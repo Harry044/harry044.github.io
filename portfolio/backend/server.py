@@ -155,6 +155,26 @@ portfolio_data = {
             "name": "Course on Computer Concepts",
             "issuer": "NIELIT",
             "description": "Basic computer concepts and applications"
+        },
+        {
+            "name": "Python for Data Science",
+            "issuer": "Online Learning Platform",
+            "description": "Python programming for data analysis and machine learning"
+        },
+        {
+            "name": "Data Analysis with Excel",
+            "issuer": "Microsoft",
+            "description": "Advanced data analysis techniques using Excel"
+        },
+        {
+            "name": "Introduction to Artificial Intelligence",
+            "issuer": "Coursera",
+            "description": "Fundamentals of AI and machine learning concepts"
+        },
+        {
+            "name": "Statistical Analysis Fundamentals",
+            "issuer": "Statistics Institute",
+            "description": "Statistical methods for data science applications"
         }
     ]
 }
