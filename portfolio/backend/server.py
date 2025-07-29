@@ -58,7 +58,7 @@ class Certification(BaseModel):
 portfolio_data = {
     "personal_info": {
         "name": "Harish Kumar",
-        "title": "Economics Graduate | Excel Specialist | Data Enthusiast",
+        "title": "Aspiring Data Science and AI Generalist",
         "tagline": "Driven by Data. Powered by Purpose.",
         "about": "A data-driven enthusiast with a strong academic foundation in Economics and Information Technology. Passionate about leveraging analytical skills and digital tools to solve real-world problems. With expertise in Microsoft Excel, Python, and web technologies, I bring a unique blend of economic insight and technical proficiency to every project.",
         "email": "mr.harishgrewal514@gmail.com",
