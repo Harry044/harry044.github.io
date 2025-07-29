@@ -3,22 +3,22 @@ import React from 'react';
 const Skills = () => {
   const skillsData = [
     {
-      category: "Data Tools",
-      skills: ["MS Excel (Advanced)", "Python", "Data Analysis", "Financial Modeling"],
+      category: "Data Science Tools",
+      skills: ["Python", "MS Excel (Advanced)", "Data Analysis", "Statistical Analysis", "Machine Learning", "Data Visualization"],
       icon: "📊",
       color: "bg-deep-blue",
       textColor: "text-deep-blue"
     },
     {
-      category: "Web Tools",
-      skills: ["HTML", "CSS", "JavaScript", "Web Development"],
-      icon: "💻",
+      category: "AI & Tech Skills",
+      skills: ["Artificial Intelligence", "HTML", "CSS", "JavaScript", "Database Management", "Research Methods"],
+      icon: "🤖",
       color: "bg-olive-green",
       textColor: "text-olive-green"
     },
     {
       category: "Soft Skills", 
-      skills: ["Typing Speed", "Analytical Thinking", "Communication", "Problem Solving"],
+      skills: ["Analytical Thinking", "Problem Solving", "Communication", "Project Management", "Critical Thinking", "Attention to Detail"],
       icon: "🧠",
       color: "bg-digital-crimson",
       textColor: "text-digital-crimson"
